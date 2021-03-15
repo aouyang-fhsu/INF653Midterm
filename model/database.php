@@ -1,5 +1,5 @@
 <?php
-    $dsn = 'mysql:host=lyn7gfxo996yjjco.cbetxkdyhwsb.us-east-1.rds.amazonaws.com;dbname=aouyang-fhsu-inf653midterm-pub';
+    $dsn = 'mysql:host=lyn7gfxo996yjjco.cbetxkdyhwsb.us-east-1.rds.amazonaws.com;dbname=gkv9is7utc3ug7ki';
     $username= 'oqotc5iofcpe1kde';
     $pw='hkbstzyjy4ttspkh'    ;
 
